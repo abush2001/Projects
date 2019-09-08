@@ -159,6 +159,8 @@ public class Main {
             randomGame();
             replay();
         }
+        System.out.println("Ok, maybe next time!");
+        System.exit(1);
     }
 
 
