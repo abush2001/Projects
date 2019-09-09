@@ -42,8 +42,6 @@ def query():
         calculator()
 
 
-query()
-
 def main():
 
     cont = input("Are you finished?")
@@ -55,5 +53,6 @@ def main():
             calculator()
             main()
 
-
+            
+query()
 main()
