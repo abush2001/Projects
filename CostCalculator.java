@@ -18,7 +18,6 @@ public class CostCalculator {
 		
 		//create header; welcome and prompt user
 		
-		System.out.println("Fall 2019 - CS 1083 - Section 005 - project 1 - written by Alex Bush");
 		System.out.println("Welcome to your preferred store.");
 		System.out.print("What's your customer ID?");
 		int name = CONSOLE.nextInt();
