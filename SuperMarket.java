@@ -228,9 +228,6 @@ public class SuperMarket {
 		}
 	public static void main(String[] args) {
 		
-		//print assignment name
-		System.out.println("Fall 2019 - CS 1083 - Section 5 - Project 2 - Written by Alex Bush");
-		
 		//print header
 		printReceiptHeader();
 		
